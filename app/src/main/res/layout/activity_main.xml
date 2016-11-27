@@ -15,11 +15,11 @@
        android:id="@+id/actionbar"
 
        >
-       <ImageView
+       <Button
            android:layout_width="20dp"
            android:layout_height="20dp"
            android:layout_centerVertical="true"
-           android:src="@drawable/side_nav_icon"
+           android:background="@drawable/side_nav_icon"
            android:layout_marginLeft="15dp"
            android:id="@+id/navicon"
            />
